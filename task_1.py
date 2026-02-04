@@ -18,4 +18,4 @@ for time in time_list:
             total_minutes += s
         
 
-print(total_minutes)   
+print(total_minutes)
